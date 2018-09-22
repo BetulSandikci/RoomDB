@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="enter">Giriş Yap</string>
+    <string name="remember_user_name">Kullanıcı Adını Hatırla</string>
+</resources>
